@@ -1,11 +1,214 @@
 {
- "UUID": "bea2c4ac-f03b-4663-9d45-659ba68d3781",
- "MetaData": {
+ "id": "3bdf1b40-c599-4851-9732-31eeac1e7e86",
+ "type": "root_container",
+ "Data": {
   "Number": 1,
   "Type": 3,
   "Key": "",
   "Value": null
  },
+ "children": [
+  {
+   "id": "62676f74-169a-484b-bb0c-1f19a514dcc8",
+   "type": "packed\u003c1\u003e_container",
+   "Data": {
+    "Number": 1,
+    "Type": 3,
+    "Key": "group\u003c1\u003e",
+    "Value": null
+   },
+   "children": [
+    {
+     "id": "e6b0032e-d1c4-46cd-ac66-b08d0d4457d0",
+     "type": "",
+     "Data": {
+      "Number": 1,
+      "Type": 2,
+      "Key": "string\u003c1\u003e",
+      "Value": "\"game/system/session/info\""
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "86acb076-2422-45c0-ab1e-b59f83da3fc8",
+     "type": "packed\u003c2\u003e_container",
+     "Data": {
+      "Number": 2,
+      "Type": 2,
+      "Key": "packed\u003c2\u003e",
+      "Value": null
+     },
+     "children": [
+      {
+       "id": "eb92fedc-578e-4e3e-9beb-bbb093e99196",
+       "type": "packed\u003c2\u003e_container",
+       "Data": {
+        "Number": 2,
+        "Type": 3,
+        "Key": "group\u003c2\u003e",
+        "Value": null
+       },
+       "children": [
+        {
+         "id": "900f7521-1ea6-40f8-8a59-480b53d2601a",
+         "type": "",
+         "Data": {
+          "Number": 1,
+          "Type": 0,
+          "Key": "varint\u003c1\u003e",
+          "Value": 0
+         },
+         "Columns": null,
+         "PreventUserColumnResize": false
+        },
+        {
+         "id": "ffa8d328-9162-4200-b7d0-4a01a3eaad78",
+         "type": "",
+         "Data": {
+          "Number": 2,
+          "Type": 2,
+          "Key": "string\u003c2\u003e",
+          "Value": "\"d3048a459417e6c0b7d39c971b99a58029f2720f7b2a70c992c826ce48184069\""
+         },
+         "Columns": null,
+         "PreventUserColumnResize": false
+        },
+        {
+         "id": "cd796f63-9e2b-4010-bf77-d3d28cf6007b",
+         "type": "",
+         "Data": {
+          "Number": 3,
+          "Type": 2,
+          "Key": "string\u003c3\u003e",
+          "Value": "\"6593D03B-92BC-4BC6-BF54-D16BB0271AF9\""
+         },
+         "Columns": null,
+         "PreventUserColumnResize": false
+        },
+        {
+         "id": "07d9f62c-fd5f-493e-b5ad-594cf7ca47be",
+         "type": "",
+         "Data": {
+          "Number": 4,
+          "Type": 2,
+          "Key": "string\u003c4\u003e",
+          "Value": "\"Apple-iPhone10,3\""
+         },
+         "Columns": null,
+         "PreventUserColumnResize": false
+        }
+       ],
+       "Columns": null,
+       "PreventUserColumnResize": false
+      },
+      {
+       "id": "be4db0e9-db64-4e34-9d91-a4f9e4123d4b",
+       "type": "packed\u003c2\u003e_container",
+       "Data": {
+        "Number": 2,
+        "Type": 3,
+        "Key": "group\u003c2\u003e",
+        "Value": null
+       },
+       "children": [
+        {
+         "id": "98637373-0b51-4e7a-944e-dd54a13bb94a",
+         "type": "",
+         "Data": {
+          "Number": 1,
+          "Type": 0,
+          "Key": "varint\u003c1\u003e",
+          "Value": 1
+         },
+         "Columns": null,
+         "PreventUserColumnResize": false
+        },
+        {
+         "id": "0b7caf11-c9bf-460e-99be-54fa0250ce9c",
+         "type": "",
+         "Data": {
+          "Number": 2,
+          "Type": 2,
+          "Key": "string\u003c2\u003e",
+          "Value": "\"\""
+         },
+         "Columns": null,
+         "PreventUserColumnResize": false
+        },
+        {
+         "id": "ef0fe155-ce43-4d09-bcca-df25a47574d9",
+         "type": "",
+         "Data": {
+          "Number": 3,
+          "Type": 2,
+          "Key": "string\u003c3\u003e",
+          "Value": "\"EAAIe5YPC68wBAPGE5l7JEtIE9BfPQmbcpQ92b0c9fD29vKn5ZCwHkutEjpX2PEcvyBLDqo15gNi1x0VN7U6d26QDaABEDaVzu3vuZBYKtvHH130O9Kna4742s6B8dtr1aKJUw7HuuyNWObpWYZCqBDGvypB7Js93oBISkwWrjbuYZAooY5vHLHFPyuIcLAcV8ZAX9sRFn3un18KZA0MEuDtgekU4ZBTJ1doEQmQ4DCLXwZDZD\""
+         },
+         "Columns": null,
+         "PreventUserColumnResize": false
+        }
+       ],
+       "Columns": null,
+       "PreventUserColumnResize": false
+      },
+      {
+       "id": "e20ad66c-e10d-4726-963a-141689758006",
+       "type": "",
+       "Data": {
+        "Number": 3,
+        "Type": 2,
+        "Key": "string\u003c3\u003e",
+        "Value": "\"6593D03B-92BC-4BC6-BF54-D16BB0271AF9\""
+       },
+       "Columns": null,
+       "PreventUserColumnResize": false
+      }
+     ],
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "7c8b3427-b43e-40fa-b3e4-d60fea74ae6e",
+     "type": "",
+     "Data": {
+      "Number": 3,
+      "Type": 0,
+      "Key": "varint\u003c3\u003e",
+      "Value": 0
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "6fd12f3d-2ef4-471a-8c72-b0758207c19c",
+     "type": "",
+     "Data": {
+      "Number": 4,
+      "Type": 2,
+      "Key": "string\u003c4\u003e",
+      "Value": "\"\""
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "46988f1f-8bb8-4fa3-80f3-c646441b504d",
+     "type": "",
+     "Data": {
+      "Number": 5,
+      "Type": 0,
+      "Key": "varint\u003c5\u003e",
+      "Value": 0
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    }
+   ],
+   "Columns": null,
+   "PreventUserColumnResize": false
+  }
+ ],
  "Columns": [
   {
    "ID": 0,
@@ -42,221 +245,6 @@
    "AutoMinimum": 0,
    "AutoMaximum": 0,
    "Cell": "Value"
-  }
- ],
- "Type": "root_container",
- "Children": [
-  {
-   "UUID": "d9a4d660-7810-4d3b-a68b-1b8915a5c0b8",
-   "MetaData": {
-    "Number": 1,
-    "Type": 3,
-    "Key": "group\u003c1\u003e",
-    "Value": null
-   },
-   "Columns": null,
-   "Type": "packed\u003c1\u003e_container",
-   "Children": [
-    {
-     "UUID": "13954a01-52a1-4d4e-b586-2d633e39ca62",
-     "MetaData": {
-      "Number": 1,
-      "Type": 2,
-      "Key": "string\u003c1\u003e",
-      "Value": "\"game/system/session/info\""
-     },
-     "Columns": null,
-     "Type": "",
-     "Children": null,
-     "PreventUserColumnResize": false
-    },
-    {
-     "UUID": "d6189204-b4df-4278-91a5-6a4cc908b8d5",
-     "MetaData": {
-      "Number": 2,
-      "Type": 2,
-      "Key": "packed\u003c2\u003e",
-      "Value": null
-     },
-     "Columns": null,
-     "Type": "packed\u003c2\u003e_container",
-     "Children": [
-      {
-       "UUID": "f16e64ad-ea7a-42bf-a2ce-c1f42bcaf594",
-       "MetaData": {
-        "Number": 2,
-        "Type": 3,
-        "Key": "group\u003c2\u003e",
-        "Value": null
-       },
-       "Columns": null,
-       "Type": "packed\u003c2\u003e_container",
-       "Children": [
-        {
-         "UUID": "ff2d9e2d-082c-4f5c-ad5e-cb6012cf9756",
-         "MetaData": {
-          "Number": 1,
-          "Type": 0,
-          "Key": "varint\u003c1\u003e",
-          "Value": 0
-         },
-         "Columns": null,
-         "Type": "",
-         "Children": null,
-         "PreventUserColumnResize": false
-        },
-        {
-         "UUID": "58803284-756b-4b90-b906-198f61d625fd",
-         "MetaData": {
-          "Number": 2,
-          "Type": 2,
-          "Key": "string\u003c2\u003e",
-          "Value": "\"d3048a459417e6c0b7d39c971b99a58029f2720f7b2a70c992c826ce48184069\""
-         },
-         "Columns": null,
-         "Type": "",
-         "Children": null,
-         "PreventUserColumnResize": false
-        },
-        {
-         "UUID": "f83f9c0f-8d3e-44cb-9e85-ad377e071c11",
-         "MetaData": {
-          "Number": 3,
-          "Type": 2,
-          "Key": "string\u003c3\u003e",
-          "Value": "\"6593D03B-92BC-4BC6-BF54-D16BB0271AF9\""
-         },
-         "Columns": null,
-         "Type": "",
-         "Children": null,
-         "PreventUserColumnResize": false
-        },
-        {
-         "UUID": "4df96b83-0070-4a3e-8a51-340275dbcf1a",
-         "MetaData": {
-          "Number": 4,
-          "Type": 2,
-          "Key": "string\u003c4\u003e",
-          "Value": "\"Apple-iPhone10,3\""
-         },
-         "Columns": null,
-         "Type": "",
-         "Children": null,
-         "PreventUserColumnResize": false
-        }
-       ],
-       "PreventUserColumnResize": false
-      },
-      {
-       "UUID": "cff16cd1-4bf1-439a-a10e-ef3108e11e61",
-       "MetaData": {
-        "Number": 2,
-        "Type": 3,
-        "Key": "group\u003c2\u003e",
-        "Value": null
-       },
-       "Columns": null,
-       "Type": "packed\u003c2\u003e_container",
-       "Children": [
-        {
-         "UUID": "6af3c790-3578-4b65-9b75-9ee052d8c407",
-         "MetaData": {
-          "Number": 1,
-          "Type": 0,
-          "Key": "varint\u003c1\u003e",
-          "Value": 1
-         },
-         "Columns": null,
-         "Type": "",
-         "Children": null,
-         "PreventUserColumnResize": false
-        },
-        {
-         "UUID": "56c2d080-46de-49f7-a231-3e56e4bc9f60",
-         "MetaData": {
-          "Number": 2,
-          "Type": 2,
-          "Key": "string\u003c2\u003e",
-          "Value": "\"\""
-         },
-         "Columns": null,
-         "Type": "",
-         "Children": null,
-         "PreventUserColumnResize": false
-        },
-        {
-         "UUID": "1d3d4496-0fc0-4ca8-bb83-7f7ed11b03a4",
-         "MetaData": {
-          "Number": 3,
-          "Type": 2,
-          "Key": "string\u003c3\u003e",
-          "Value": "\"EAAIe5YPC68wBAPGE5l7JEtIE9BfPQmbcpQ92b0c9fD29vKn5ZCwHkutEjpX2PEcvyBLDqo15gNi1x0VN7U6d26QDaABEDaVzu3vuZBYKtvHH130O9Kna4742s6B8dtr1aKJUw7HuuyNWObpWYZCqBDGvypB7Js93oBISkwWrjbuYZAooY5vHLHFPyuIcLAcV8ZAX9sRFn3un18KZA0MEuDtgekU4ZBTJ1doEQmQ4DCLXwZDZD\""
-         },
-         "Columns": null,
-         "Type": "",
-         "Children": null,
-         "PreventUserColumnResize": false
-        }
-       ],
-       "PreventUserColumnResize": false
-      },
-      {
-       "UUID": "0249dc88-66fe-4ef9-a53d-466f40fa2a1a",
-       "MetaData": {
-        "Number": 3,
-        "Type": 2,
-        "Key": "string\u003c3\u003e",
-        "Value": "\"6593D03B-92BC-4BC6-BF54-D16BB0271AF9\""
-       },
-       "Columns": null,
-       "Type": "",
-       "Children": null,
-       "PreventUserColumnResize": false
-      }
-     ],
-     "PreventUserColumnResize": false
-    },
-    {
-     "UUID": "36f38f4c-5a60-418d-9eb3-69e1d5fa75a6",
-     "MetaData": {
-      "Number": 3,
-      "Type": 0,
-      "Key": "varint\u003c3\u003e",
-      "Value": 0
-     },
-     "Columns": null,
-     "Type": "",
-     "Children": null,
-     "PreventUserColumnResize": false
-    },
-    {
-     "UUID": "9ae82d6a-a774-4ced-91fe-f4d1c2b51288",
-     "MetaData": {
-      "Number": 4,
-      "Type": 2,
-      "Key": "string\u003c4\u003e",
-      "Value": "\"\""
-     },
-     "Columns": null,
-     "Type": "",
-     "Children": null,
-     "PreventUserColumnResize": false
-    },
-    {
-     "UUID": "40b67bb7-905d-4386-ae86-a40ee7dc71c7",
-     "MetaData": {
-      "Number": 5,
-      "Type": 0,
-      "Key": "varint\u003c5\u003e",
-      "Value": 0
-     },
-     "Columns": null,
-     "Type": "",
-     "Children": null,
-     "PreventUserColumnResize": false
-    }
-   ],
-   "PreventUserColumnResize": false
   }
  ],
  "PreventUserColumnResize": false
