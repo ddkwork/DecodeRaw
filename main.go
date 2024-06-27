@@ -9,6 +9,6 @@ import (
 
 func main() {
 	app.Run("DecodeRaw", func(w *unison.Window) {
-		decodeRaw.New().Layout(w.Content())
+		w.Content().AddChild(decodeRaw.New().Layout())
 	})
 }
