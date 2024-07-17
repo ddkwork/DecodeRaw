@@ -1,0 +1,251 @@
+{
+ "id": "51478d08-a9a1-4bef-af8c-747e9c949081",
+ "type": "root_container",
+ "Data": {
+  "Number": 1,
+  "Type": 3,
+  "Key": "",
+  "Value": null
+ },
+ "children": [
+  {
+   "id": "d6ce91e4-bb8a-4c54-ab5c-d0d292577389",
+   "type": "packed\u003c1\u003e_container",
+   "Data": {
+    "Number": 1,
+    "Type": 3,
+    "Key": "packed\u003c1\u003e (5)",
+    "Value": null
+   },
+   "children": [
+    {
+     "id": "29bba454-a6c9-42aa-bac5-2cec35f11937",
+     "type": "",
+     "Data": {
+      "Number": 1,
+      "Type": 2,
+      "Key": "string\u003c1\u003e",
+      "Value": "\"game/system/session/info\""
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "cecc7bad-b37d-45df-877c-b78e429eb674",
+     "type": "packed\u003c2\u003e_container",
+     "Data": {
+      "Number": 2,
+      "Type": 2,
+      "Key": "packed\u003c2\u003e (3)",
+      "Value": null
+     },
+     "children": [
+      {
+       "id": "5a6ef675-fbfb-46d9-891b-aa717e64a720",
+       "type": "packed\u003c2\u003e_container",
+       "Data": {
+        "Number": 2,
+        "Type": 3,
+        "Key": "packed\u003c2\u003e (4)",
+        "Value": null
+       },
+       "children": [
+        {
+         "id": "88fb71f4-9343-461b-a2d0-829d8a3be42e",
+         "type": "",
+         "Data": {
+          "Number": 1,
+          "Type": 0,
+          "Key": "varint\u003c1\u003e",
+          "Value": 0
+         },
+         "Columns": null,
+         "PreventUserColumnResize": false
+        },
+        {
+         "id": "17851e69-4f28-44e1-a041-4abd107029bf",
+         "type": "",
+         "Data": {
+          "Number": 2,
+          "Type": 2,
+          "Key": "string\u003c2\u003e",
+          "Value": "\"d3048a459417e6c0b7d39c971b99a58029f2720f7b2a70c992c826ce48184069\""
+         },
+         "Columns": null,
+         "PreventUserColumnResize": false
+        },
+        {
+         "id": "a6137a64-e8e4-4e41-8583-67160188bdf0",
+         "type": "",
+         "Data": {
+          "Number": 3,
+          "Type": 2,
+          "Key": "string\u003c3\u003e",
+          "Value": "\"6593D03B-92BC-4BC6-BF54-D16BB0271AF9\""
+         },
+         "Columns": null,
+         "PreventUserColumnResize": false
+        },
+        {
+         "id": "a8b2a40f-f6a9-4ae0-ad81-17e5edbd44dc",
+         "type": "",
+         "Data": {
+          "Number": 4,
+          "Type": 2,
+          "Key": "string\u003c4\u003e",
+          "Value": "\"Apple-iPhone10,3\""
+         },
+         "Columns": null,
+         "PreventUserColumnResize": false
+        }
+       ],
+       "Columns": null,
+       "PreventUserColumnResize": false
+      },
+      {
+       "id": "3faf725e-18f1-4518-a58b-817291521f5d",
+       "type": "packed\u003c2\u003e_container",
+       "Data": {
+        "Number": 2,
+        "Type": 3,
+        "Key": "packed\u003c2\u003e (3)",
+        "Value": null
+       },
+       "children": [
+        {
+         "id": "2b67e547-841c-4a9b-9d1a-795ef48adaab",
+         "type": "",
+         "Data": {
+          "Number": 1,
+          "Type": 0,
+          "Key": "varint\u003c1\u003e",
+          "Value": 1
+         },
+         "Columns": null,
+         "PreventUserColumnResize": false
+        },
+        {
+         "id": "dfa530e3-5d5f-4e1c-9951-9c69d3bc5cab",
+         "type": "",
+         "Data": {
+          "Number": 2,
+          "Type": 2,
+          "Key": "string\u003c2\u003e",
+          "Value": "\"\""
+         },
+         "Columns": null,
+         "PreventUserColumnResize": false
+        },
+        {
+         "id": "8b482bb8-220a-4381-8d1e-fa3736c654a3",
+         "type": "",
+         "Data": {
+          "Number": 3,
+          "Type": 2,
+          "Key": "string\u003c3\u003e",
+          "Value": "\"EAAIe5YPC68wBAPGE5l7JEtIE9BfPQmbcpQ92b0c9fD29vKn5ZCwHkutEjpX2PEcvyBLDqo15gNi1x0VN7U6d26QDaABEDaVzu3vuZBYKtvHH130O9Kna4742s6B8dtr1aKJUw7HuuyNWObpWYZCqBDGvypB7Js93oBISkwWrjbuYZAooY5vHLHFPyuIcLAcV8ZAX9sRFn3un18KZA0MEuDtgekU4ZBTJ1doEQmQ4DCLXwZDZD\""
+         },
+         "Columns": null,
+         "PreventUserColumnResize": false
+        }
+       ],
+       "Columns": null,
+       "PreventUserColumnResize": false
+      },
+      {
+       "id": "a530858b-2802-4c45-a052-7af3a08b1626",
+       "type": "",
+       "Data": {
+        "Number": 3,
+        "Type": 2,
+        "Key": "string\u003c3\u003e",
+        "Value": "\"6593D03B-92BC-4BC6-BF54-D16BB0271AF9\""
+       },
+       "Columns": null,
+       "PreventUserColumnResize": false
+      }
+     ],
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "ae2c1dc2-1c39-41af-8c95-743f51aa0632",
+     "type": "",
+     "Data": {
+      "Number": 3,
+      "Type": 0,
+      "Key": "varint\u003c3\u003e",
+      "Value": 0
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "c1d6c7ec-df02-4312-9459-5440b3daaf9e",
+     "type": "",
+     "Data": {
+      "Number": 4,
+      "Type": 2,
+      "Key": "string\u003c4\u003e",
+      "Value": "\"\""
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "6167e4f0-0b53-41e8-93cc-431f9ea31912",
+     "type": "",
+     "Data": {
+      "Number": 5,
+      "Type": 0,
+      "Key": "varint\u003c5\u003e",
+      "Value": 0
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    }
+   ],
+   "Columns": null,
+   "PreventUserColumnResize": false
+  }
+ ],
+ "Columns": [
+  {
+   "ID": 0,
+   "Current": 84,
+   "Minimum": 57.97754,
+   "Maximum": 10000,
+   "AutoMinimum": 0,
+   "AutoMaximum": 0,
+   "Cell": "Number"
+  },
+  {
+   "ID": 1,
+   "Current": 75,
+   "Minimum": 38.249023,
+   "Maximum": 10000,
+   "AutoMinimum": 0,
+   "AutoMaximum": 0,
+   "Cell": "Type"
+  },
+  {
+   "ID": 2,
+   "Current": 97,
+   "Minimum": 30.81836,
+   "Maximum": 10000,
+   "AutoMinimum": 0,
+   "AutoMaximum": 0,
+   "Cell": "Key"
+  },
+  {
+   "ID": 3,
+   "Current": 1971,
+   "Minimum": 43.054688,
+   "Maximum": 10000,
+   "AutoMinimum": 0,
+   "AutoMaximum": 0,
+   "Cell": "Value"
+  }
+ ],
+ "PreventUserColumnResize": false
+}
